@@ -1,5 +1,5 @@
-# BellevueWeb
-<h1>CSD 340 Web Development with HTML and CSS</h1>
+# Bellevue DevOps
+<h1>CSD 380 DevOps</h1>
 <h2>Contributors</h2>
 <ul>
  <li>Vincent Ryan</li>
